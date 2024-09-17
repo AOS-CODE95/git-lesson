@@ -1,0 +1,67 @@
+body{
+margin: auto;
+}
+header{
+    background-color: green;
+    color: azure;
+text-align: center;
+padding: 7px 1px;
+margin: 0px;
+}
+nav{
+margin: 20px 0px;
+}
+nav a{
+    color: green;
+    font-size: 1.1rem;
+    text-decoration: none;
+    padding-left: 20px;
+}
+img{
+    padding-left: 400px;
+    width: 800px;
+    align-items: center;
+}
+p{
+    text-align: center;
+    font-size: 1.1rem;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: center;
+}
+div{
+    padding-left: 50px;
+
+}
+section{
+    padding: 20px;
+}
+table{
+    border-collapse: collapse;
+    width: 350px;
+    height: 150px;
+    text-align: center;
+    padding-left:20px;
+}
+th{
+    border: 1px solid black;
+    height: 40px;
+    padding: 20px;
+}
+td{
+    border: 1px solid black;
+    padding-left: 20px;
+}
+article{
+    padding: 20px;
+}
+
+
+
+
+
+    
+    
+
+
+
+
